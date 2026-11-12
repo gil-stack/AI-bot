@@ -1,0 +1,59 @@
+{
+  "scenarios": [
+    {
+      "viewport": "desktop",
+      "passed": [
+        "expand/collapse with inert",
+        "alternative promotes selection",
+        "selected price reaches quote",
+        "explicit approval required",
+        "step tracks checkbox",
+        "no delayed auto-approval",
+        "payment remains unknown",
+        "context added/removed locally",
+        "Ctrl+Enter submits",
+        "activity disclosure",
+        "activity updates on cancel",
+        "expanded surfaces no horizontal overflow in both themes"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "passed": [
+        "expand/collapse with inert",
+        "alternative promotes selection",
+        "selected price reaches quote",
+        "explicit approval required",
+        "step tracks checkbox",
+        "no delayed auto-approval",
+        "payment remains unknown",
+        "context added/removed locally",
+        "Ctrl+Enter submits",
+        "activity disclosure",
+        "activity updates on cancel",
+        "expanded surfaces no horizontal overflow in both themes"
+      ]
+    },
+    {
+      "viewport": "compact",
+      "passed": [
+        "expand/collapse with inert",
+        "alternative promotes selection",
+        "selected price reaches quote",
+        "explicit approval required",
+        "step tracks checkbox",
+        "no delayed auto-approval",
+        "payment remains unknown",
+        "context added/removed locally",
+        "Ctrl+Enter submits",
+        "activity disclosure",
+        "activity updates on cancel",
+        "expanded surfaces no horizontal overflow in both themes"
+      ]
+    }
+  ],
+  "checks": 37,
+  "script_errors": [],
+  "activity_without_timers": "stable after6.5s",
+  "only_local_simulation": true
+}

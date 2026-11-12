@@ -1,0 +1,4 @@
+# Documentos e imágenes se revisan como artefactos binarios.
+*.pdf binary
+*.png binary
+*.ttf binary

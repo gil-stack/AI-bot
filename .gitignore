@@ -14,3 +14,6 @@ __pycache__/
 .DS_Store
 .pytest_cache/
 .playwright/
+
+# Evidencia local futura de pruebas
+prototypes/estela/tests/artifacts/

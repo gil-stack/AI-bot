@@ -1,0 +1,31 @@
+{
+  "status": "Concepto web con estado local",
+  "selected_by_user": "Liquid Glass monocromático tipo Apple",
+  "revision": "03",
+  "default": "dark",
+  "alternatives": [
+    "dark",
+    "light"
+  ],
+  "font": "Noto Sans Regular/Bold OFL",
+  "materials": {
+    "dark_glass": "rgba(255,255,255,.075)",
+    "light_glass": "rgba(255,255,255,.56)",
+    "blur_px": 28,
+    "backdrop_filter": "blur + saturate(0)"
+  },
+  "tokens": {
+    "dark_background": "#101010",
+    "light_background": "#E9E9E9",
+    "dark_text": "#F5F5F5",
+    "light_text": "#171717",
+    "dark_action": "#F2F2F2",
+    "light_action": "#191919"
+  },
+  "accessibility": [
+    "reduced-motion",
+    "reduced-transparency",
+    "solid fallback",
+    "visible focus"
+  ]
+}

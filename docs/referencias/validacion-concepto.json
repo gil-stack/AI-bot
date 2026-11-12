@@ -1,0 +1,200 @@
+{
+  "kind": "local UI concept only; no backend/LLM/payments",
+  "viewports": [
+    {
+      "screen": "#home",
+      "width": 1440,
+      "scroll": 1440,
+      "height": 1365,
+      "heading": "Menos pendientes.Más vida."
+    },
+    {
+      "screen": "#comparison",
+      "width": 1440,
+      "scroll": 1440,
+      "height": 1133,
+      "heading": "Tres formas de acertar."
+    },
+    {
+      "screen": "#approval",
+      "width": 1440,
+      "scroll": 1440,
+      "height": 1322,
+      "heading": "Revisa. Decide. Yo continúo."
+    },
+    {
+      "screen": "#task",
+      "width": 1440,
+      "scroll": 1440,
+      "height": 1196,
+      "heading": "Una escapada sin prisas."
+    },
+    {
+      "screen": "#tasks",
+      "width": 1440,
+      "scroll": 1440,
+      "height": 1000,
+      "heading": "Cada cosa, en su lugar."
+    },
+    {
+      "screen": "#memory",
+      "width": 1440,
+      "scroll": 1440,
+      "height": 1000,
+      "heading": "Lo que me ayuda a conocerte."
+    },
+    {
+      "screen": "#connections",
+      "width": 1440,
+      "scroll": 1440,
+      "height": 1000,
+      "heading": "Más contexto. El mismo control."
+    },
+    {
+      "screen": "#home",
+      "width": 390,
+      "scroll": 390,
+      "height": 1923,
+      "heading": "Menos pendientes.Más vida."
+    },
+    {
+      "screen": "#comparison",
+      "width": 390,
+      "scroll": 390,
+      "height": 2451,
+      "heading": "Tres formas de acertar."
+    },
+    {
+      "screen": "#approval",
+      "width": 390,
+      "scroll": 390,
+      "height": 1911,
+      "heading": "Revisa. Decide. Yo continúo."
+    },
+    {
+      "screen": "#task",
+      "width": 390,
+      "scroll": 390,
+      "height": 1636,
+      "heading": "Una escapada sin prisas."
+    },
+    {
+      "screen": "#tasks",
+      "width": 390,
+      "scroll": 390,
+      "height": 858,
+      "heading": "Cada cosa, en su lugar."
+    },
+    {
+      "screen": "#memory",
+      "width": 390,
+      "scroll": 390,
+      "height": 1210,
+      "heading": "Lo que me ayuda a conocerte."
+    },
+    {
+      "screen": "#connections",
+      "width": 390,
+      "scroll": 390,
+      "height": 1008,
+      "heading": "Más contexto. El mismo control."
+    },
+    {
+      "screen": "#home",
+      "width": 320,
+      "scroll": 320,
+      "height": 2023,
+      "heading": "Menos pendientes.Más vida."
+    },
+    {
+      "screen": "#comparison",
+      "width": 320,
+      "scroll": 320,
+      "height": 2531,
+      "heading": "Tres formas de acertar."
+    },
+    {
+      "screen": "#approval",
+      "width": 320,
+      "scroll": 320,
+      "height": 2123,
+      "heading": "Revisa. Decide. Yo continúo."
+    },
+    {
+      "screen": "#task",
+      "width": 320,
+      "scroll": 320,
+      "height": 1900,
+      "heading": "Una escapada sin prisas."
+    },
+    {
+      "screen": "#tasks",
+      "width": 320,
+      "scroll": 320,
+      "height": 978,
+      "heading": "Cada cosa, en su lugar."
+    },
+    {
+      "screen": "#memory",
+      "width": 320,
+      "scroll": 320,
+      "height": 1323,
+      "heading": "Lo que me ayuda a conocerte."
+    },
+    {
+      "screen": "#connections",
+      "width": 320,
+      "scroll": 320,
+      "height": 1088,
+      "heading": "Más contexto. El mismo control."
+    }
+  ],
+  "checks": [
+    {
+      "viewport": "desktop",
+      "passed": [
+        "all routes no horizontal overflow",
+        "consent required",
+        "1249 = 1149+100",
+        "authorization results unknown not confirmed",
+        "separate confirmed scenario",
+        "expired quote blocks approval",
+        "editable/removable memory",
+        "text input escapes HTML",
+        "task can stop",
+        "alternative price and rejection"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "passed": [
+        "all routes no horizontal overflow",
+        "consent required",
+        "1249 = 1149+100",
+        "authorization results unknown not confirmed",
+        "separate confirmed scenario",
+        "expired quote blocks approval",
+        "editable/removable memory",
+        "text input escapes HTML",
+        "task can stop",
+        "alternative price and rejection"
+      ]
+    },
+    {
+      "viewport": "compact",
+      "passed": [
+        "all routes no horizontal overflow",
+        "consent required",
+        "1249 = 1149+100",
+        "authorization results unknown not confirmed",
+        "separate confirmed scenario",
+        "expired quote blocks approval",
+        "editable/removable memory",
+        "text input escapes HTML",
+        "task can stop",
+        "alternative price and rejection"
+      ]
+    }
+  ],
+  "errors": []
+}

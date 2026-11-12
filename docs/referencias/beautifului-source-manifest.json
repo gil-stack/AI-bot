@@ -1,0 +1,112 @@
+{
+  "repository": "TurboKach/ai-native-react-components",
+  "commit": "05dab2d2b5f1f3e40029776e339a486d70491079",
+  "date": "2026-11-11",
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://raw.githubusercontent.com/TurboKach/ai-native-react-components/05dab2d2b5f1f3e40029776e339a486d70491079/README.md",
+      "bytes": 3862,
+      "sha256": "8a982ccac5d9f1a50229154dfb5cf1148633441c2612e6adafe934b306f32771",
+      "status": "read"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/TurboKach/ai-native-react-components/05dab2d2b5f1f3e40029776e339a486d70491079/LICENSE",
+      "bytes": 1062,
+      "sha256": "8a1903c90896c79572e4ef82ef78f815e5768cd7dd873f71cefbf091ad568b7d",
+      "status": "read"
+    },
+    {
+      "path": "package.json",
+      "url": "https://raw.githubusercontent.com/TurboKach/ai-native-react-components/05dab2d2b5f1f3e40029776e339a486d70491079/package.json",
+      "bytes": 668,
+      "sha256": "86114f933f98e83760fe0ba656147b0da762da4f034cbb6b8ec3ad038ba0a6b6",
+      "status": "read"
+    },
+    {
+      "path": "components/approval-card.tsx",
+      "url": "https://raw.githubusercontent.com/TurboKach/ai-native-react-components/05dab2d2b5f1f3e40029776e339a486d70491079/components/approval-card.tsx",
+      "bytes": 10478,
+      "sha256": "f17a7b252d8d8cbdbc0f67e6abcce8e5cce811928142dce05cd8f3f1304e6ddd",
+      "status": "read"
+    },
+    {
+      "path": "components/task-rows.tsx",
+      "url": "https://raw.githubusercontent.com/TurboKach/ai-native-react-components/05dab2d2b5f1f3e40029776e339a486d70491079/components/task-rows.tsx",
+      "bytes": 9026,
+      "sha256": "665e31820b041600662fcffff044d6a4994ecd18059d5e8ef1026251bf996b0e",
+      "status": "read"
+    },
+    {
+      "path": "components/tool-chips.tsx",
+      "url": "https://raw.githubusercontent.com/TurboKach/ai-native-react-components/05dab2d2b5f1f3e40029776e339a486d70491079/components/tool-chips.tsx",
+      "bytes": 9084,
+      "sha256": "4296af52f4751beb1434272624e5617c43f93ba3e069a15f4780021faeef8f26",
+      "status": "read"
+    },
+    {
+      "path": "components/prompt-bar.tsx",
+      "url": "https://raw.githubusercontent.com/TurboKach/ai-native-react-components/05dab2d2b5f1f3e40029776e339a486d70491079/components/prompt-bar.tsx",
+      "bytes": 29151,
+      "sha256": "a37c9525b903e43bef8169ae041fc97f4afda220af40168da20ce64fc559c4c0",
+      "status": "read"
+    },
+    {
+      "path": "components/recommendation-card.tsx",
+      "url": "https://raw.githubusercontent.com/TurboKach/ai-native-react-components/05dab2d2b5f1f3e40029776e339a486d70491079/components/recommendation-card.tsx",
+      "bytes": 6114,
+      "sha256": "8738c6a6aee5e49bdd3f4874dd353874d72333a24878640e7508b40449f76ab6",
+      "status": "read"
+    },
+    {
+      "path": "components/loading-state.tsx",
+      "url": "https://raw.githubusercontent.com/TurboKach/ai-native-react-components/05dab2d2b5f1f3e40029776e339a486d70491079/components/loading-state.tsx",
+      "bytes": 3079,
+      "sha256": "4486cd52587e99772215162d3cca77f4eac4b734b8696c3a0237446ab013ba46",
+      "status": "read"
+    },
+    {
+      "path": "components/thinking.tsx",
+      "url": "https://raw.githubusercontent.com/TurboKach/ai-native-react-components/05dab2d2b5f1f3e40029776e339a486d70491079/components/thinking.tsx",
+      "bytes": 10439,
+      "sha256": "c8f70ed491fa886176f9978093ba3d3149806ca2a6a063a746c4547ca1e49e5c",
+      "status": "read"
+    },
+    {
+      "path": "components/streaming-text.tsx",
+      "url": "https://raw.githubusercontent.com/TurboKach/ai-native-react-components/05dab2d2b5f1f3e40029776e339a486d70491079/components/streaming-text.tsx",
+      "bytes": 8964,
+      "sha256": "bdbf40624fdc40124684273d2be71882b528a6cc6dbb3bb06b45eb8fa22995c9",
+      "status": "read"
+    },
+    {
+      "path": "components/search.tsx",
+      "url": "https://raw.githubusercontent.com/TurboKach/ai-native-react-components/05dab2d2b5f1f3e40029776e339a486d70491079/components/search.tsx",
+      "bytes": 3947,
+      "sha256": "86e244a2ea8381cb5728690b2220421a1bbf9f16b2fcde27899bbd8acd4b872a",
+      "status": "read"
+    },
+    {
+      "path": "app/globals.css",
+      "url": "https://raw.githubusercontent.com/TurboKach/ai-native-react-components/05dab2d2b5f1f3e40029776e339a486d70491079/app/globals.css",
+      "bytes": 17211,
+      "sha256": "c46bc5b54750efd57af8add3b227cf144f34047affae80c0391ffc5f026503df",
+      "status": "read"
+    },
+    {
+      "path": "registry.json",
+      "url": "https://raw.githubusercontent.com/TurboKach/ai-native-react-components/05dab2d2b5f1f3e40029776e339a486d70491079/registry.json",
+      "bytes": 122457,
+      "sha256": "52bcea52d53f65d1dc17f002536ce66ea175d7902c003efe994b5420a0c6b02b",
+      "status": "read"
+    },
+    {
+      "path": "app/page.tsx",
+      "url": "https://raw.githubusercontent.com/TurboKach/ai-native-react-components/05dab2d2b5f1f3e40029776e339a486d70491079/app/page.tsx",
+      "bytes": 3645,
+      "sha256": "b1eb278f2e0120d96262275795c7d3de6d13b5cf59a61948bf669ecdca1a9e76",
+      "status": "read"
+    }
+  ]
+}
